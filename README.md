@@ -6,5 +6,5 @@ Python code signing module, which allows developers to add a layer of authentici
 
 
 ## Use Cases
-![image](https://user-images.githubusercontent.com/76825589/141977758-41ee3408-1eff-489e-87f8-9848af240832.png)
+![image](https://user-images.githubusercontent.com/76825589/141977758-41ee3408-1eff-489e-87f8-9848af240832.png =300 x 300)
 
